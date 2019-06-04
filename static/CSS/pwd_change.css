@@ -1,0 +1,25 @@
+.my-con1{
+    text-align: center;
+    color: steelblue;
+}
+.body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ul>li{
+    list-style: none;
+}
+.title-style{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: red;
+    text-align: center;
+}
+.m1{
+    margin-right: 40px;
+}
+
+.b1{
+    font-weight: bold;
+}
